@@ -1,0 +1,269 @@
+QRZLogbook download for w4ktx
+Date: Tue Mar  8 18:19:18 2016
+Bookid: 136133
+Records: 6
+<ADIF_VER:5>3.0.4
+<PROGRAMID:10>QRZLogbook
+<PROGRAMVERSION:3>2.0
+<eoh>
+
+<app_qrzlog_logid:9>211126693
+<app_qrzlog_qsldate:8>20151031
+<app_qrzlog_status:1>C
+<band:3>20m
+<band_rx:3>20m
+<call:5>AF5IU
+<cnty:11>TX, Bastrop
+<comment:18>First HF Contact!!
+<cont:2>NA
+<country:13>United States
+<distance:4>1148
+<dxcc:3>291
+<email:17>af5iu@outlook.com
+<eqsl_qsl_rcvd:1>N
+<eqsl_qsl_sent:1>N
+<freq:5>14.16
+<freq_rx:5>14.16
+<gridsquare:6>EM10gc
+<lat:11>N030 06.488
+<lon:11>W097 28.731
+<lotw_qsl_rcvd:1>N
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20151031
+<mode:3>SSB
+<my_city:17>OWENS CROSS ROADS
+<my_cnty:11>AL, Madison
+<my_country:13>United States
+<my_cq_zone:1>4
+<my_gridsquare:8>EM64RQ90
+<my_itu_zone:1>8
+<my_lat:11>N034 40.198
+<my_lon:11>W086 30.309
+<my_name:20>HOWARD C GRAVES, III
+<my_state:2>AL
+<name:13>BRYAN W NOVAK
+<operator:5>W4KTX
+<qrzcom_qso_upload_date:8>20151011
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qso_date:8>20151011
+<qso_date_off:8>20151011
+<qth:11>Cedar Creek
+<rst_rcvd:2>58
+<rst_sent:2>58
+<state:2>TX
+<station_callsign:5>W4KTX
+<time_off:4>2154
+<time_on:4>2154
+<tx_pwr:1>5
+<eor>
+
+<app_qrzlog_logid:9>226306128
+<app_qrzlog_status:1>2
+<band:3>40m
+<band_rx:3>40m
+<call:5>N8JIW
+<cnty:12>OH, Cuyahoga
+<comment:25>1st digital mode contact.
+<cont:2>NA
+<country:13>United States
+<distance:3>874
+<dxcc:3>291
+<email:18>HOWARDDLAW@aol.com
+<eqsl_qsl_rcvd:1>N
+<eqsl_qsl_sent:1>Y
+<eqsl_qslsdate:8>20160119
+<freq:5>7.071
+<freq_rx:5>7.071
+<gridsquare:6>EN91fl
+<lat:11>N041 29.020
+<lon:11>W081 31.023
+<lotw_qsl_rcvd:1>N
+<lotw_qsl_sent:1>N
+<mode:5>PSK31
+<my_city:17>OWENS CROSS ROADS
+<my_cnty:11>AL, Madison
+<my_country:13>United States
+<my_cq_zone:1>4
+<my_gridsquare:8>EM64RQ90
+<my_itu_zone:1>8
+<my_lat:11>N034 40.125
+<my_lon:11>W086 30.250
+my_name:20>HOWARD C GRAVES, III
+<my_state:2>AL
+<name:15>DONALD E HOWARD
+<operator:5>W4KTX
+<qrzcom_qso_upload_date:8>20160120
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>Y
+<qsl_via:17>HOWARDDLAWAOL.COM
+<qslsdate:8>20160120
+<qso_date:8>20160118
+<qso_date_off:8>20160118
+<qth:14>SHAKER HEIGHTS
+<rst_rcvd:3>599
+<rst_sent:3>599
+<state:2>OH
+<station_callsign:5>W4KTX
+<time_off:4>2302
+<time_on:4>2302
+<tx_pwr:2>50
+<web:24>http://Howarddlawaol.com
+<eor>
+
+<app_qrzlog_logid:9>230622751
+<app_qrzlog_status:1>N
+<band:3>40m
+<band_rx:3>40m
+<call:6>CM3OPG
+<cont:2>NA
+<country:4>Cuba
+<cqz:1>8
+<distance:4>1375
+<dxcc:2>70
+<email:19>cl3opg@frcuba.co.cu
+<eqsl_qsl_rcvd:1>N
+<eqsl_qsl_sent:1>N
+<freq:5>7.071
+<freq_rx:5>7.071
+<gridsquare:6>EL92bx
+<ituz:2>11
+<lat:11>N022 58.752
+<lon:11>W081 52.500
+<lotw_qsl_rcvd:1>N
+<lotw_qsl_sent:1>N
+<mode:5>PSK31
+<my_city:17>OWENS CROSS ROADS
+<my_cnty:11>AL, Madison
+<my_country:13>United States
+<my_cq_zone:1>4
+<my_gridsquare:8>EM64RQ90
+<my_itu_zone:1>8
+<my_lat:11>N034 40.198
+<my_lon:11>W086 30.309
+<my_name:20>HOWARD C GRAVES, III
+<my_state:2>AL
+<name:22>Oscar G. Perez Marrero
+<operator:5>W4KTX
+<qrzcom_qso_upload_date:8>20160222
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qsl_via:23>QSL ONLY BY MAIL PLEASE
+<qso_date:8>20160222
+<qso_date_off:8>20160222
+<qth:30>Santa Cruz del Norte Mayabeque
+<rst_rcvd:3>599
+<rst_sent:3>599
+<station_callsign:5>W4KTX
+<time_off:4>0310
+<time_on:4>0310
+<tx_pwr:3>100
+<eor>
+
+<app_qrzlog_logid:9>232797379
+<app_qrzlog_status:1>2
+<band:3>40m
+<band_rx:3>40m
+<call:6>WA4YIZ
+<cnty:11>NC, Lincoln
+<cont:2>NA
+<country:13>United States
+<distance:3>483
+<dxcc:3>291
+<email:15>jcrisco@aol.com
+<eqsl_qsl_rcvd:1>Y
+<eqsl_qsl_sent:1>Y
+<eqsl_qslrdate:8>20160308
+<eqsl_qslsdate:8>20160308
+<freq:5>7.185
+<freq_rx:5>7.185
+<gridsquare:6>EM95im
+<lat:11>N035 30.337
+<lon:11>W081 17.864
+<lotw_qsl_rcvd:1>N
+<lotw_qsl_sent:1>N
+<mode:3>SSB
+<my_city:17>OWENS CROSS ROADS
+<my_cnty:11>AL, Madison
+<my_country:13>United States
+<my_cq_zone:1>4
+<my_gridsquare:8>EM64RQ90
+<my_itu_zone:1>8
+<my_lat:11>N034 40.198
+<my_lon:11>W086 30.309
+my_name:20>HOWARD C GRAVES, III
+<my_state:2>AL
+<name:17>JAMES S CRISCO II
+<operator:5>W4KTX
+<qrzcom_qso_upload_date:8>20160308
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>Y
+<qsl_via:9>LOTW EQSL
+<qslsdate:8>20160302
+<qso_date:8>20160228
+<qso_date_off:8>20160228
+<qth:10>Lincolnton
+<rst_rcvd:2>59
+<rst_sent:2>59
+<rx_pwr:3>100
+<state:2>NC
+<station_callsign:5>W4KTX
+<time_off:4>1934
+<time_on:4>1934
+<tx_pwr:3>100
+<eor>
+
+<app_qrzlog_logid:9>232800338
+<app_qrzlog_status:1>2
+<band:3>40m
+<band_rx:3>40m
+<call:5>W4WNC
+<cnty:11>NC, Haywood
+<cont:2>NA
+<country:13>United States
+<distance:3>337
+<dxcc:3>291
+<email:16>w4wnc1@gmail.com
+<eqsl_qsl_rcvd:1>N
+<eqsl_qsl_sent:1>N
+<freq:5>7.194
+<freq_rx:5>7.194
+<gridsquare:6>EM85mm
+<lat:11>N035 31.098
+<lon:11>W082 57.229
+<lotw_qsl_rcvd:1>N
+<lotw_qsl_sent:1>N
+<mode:3>SSB
+<my_city:17>OWENS CROSS ROADS
+<my_cnty:11>AL, Madison
+<my_country:13>United States
+<my_cq_zone:1>4
+<my_gridsquare:8>EM64RQ90
+<my_itu_zone:1>8
+<my_lat:11>N034 40.198
+<my_lon:11>W086 30.309
+<my_name:20>HOWARD C GRAVES, III
+<my_state:2>AL
+<name:13>DUDLEY R HALE
+<operator:5>W4KTX
+<qrzcom_qso_upload_date:8>20160308
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>Y
+<qslsdate:8>20160302
+<qso_date:8>20160228
+<qso_date_off:8>20160308
+<qth:11>WAYNESVILLE
+<rst_rcvd:2>59
+<rst_sent:2>59
+<state:2>NC
+<station_callsign:5>W4KTX
+<time_off:4>1656
+<time_on:4>1656
+<tx_pwr:3>100
+<eor>
+
